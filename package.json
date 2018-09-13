@@ -1,0 +1,16 @@
+{
+  "name": "react-native-pull-refresh-framelayout",
+  "version": "0.0.1",
+  "description": "One android pull refresh framelayout.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://github.com/imapolaris/react-native-pull-refresh-framelayout.git",
+  "license": "MIT",
+  "author": "alex",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    
+  }
+}
